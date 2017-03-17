@@ -1,0 +1,17 @@
+{
+  "name": "flow-demo",
+  "version": "1.0.0",
+  "description": "flow type checking demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "flow": "flow index.js"
+  },
+  "keywords": [
+    "flow",
+    "type",
+    "checking"
+  ],
+  "author": "thenlai_ghuang",
+  "license": "MIT"
+}
